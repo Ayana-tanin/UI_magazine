@@ -440,7 +440,7 @@ a:hover {
 
 .popular_posts {
   display: grid;
-  grid-template-columns: 10fr, 2fr;
+  grid-template-columns: 5fr 5fr 1fr;
   gap: 30px;
 }
 
